@@ -1,0 +1,7 @@
+K Prop=0.04
+K Deriv=0.001
+Motor Add=0.1
+Coerce=0.5
+Bal Tol=2
+Tip Tol=1.9
+Shooter RPM OS=5
